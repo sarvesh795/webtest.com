@@ -1,0 +1,76 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://road-action.codedamn.app:1337/
+Subject: codedamn HTML Playground
+Date: Mon, 20 Jun 2022 21:23:14 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--yp7lbf185uRD1jkuNpvLxVT6M51CBzLQx6joAd8uW0----"
+
+
+------MultipartBoundary--yp7lbf185uRD1jkuNpvLxVT6M51CBzLQx6joAd8uW0----
+Content-Type: text/html
+Content-ID: <frame-29B3BA111834CB08750E7829726CD1E4@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://road-action.codedamn.app:1337/
+
+<!DOCTYPE html><html><head><meta http-equiv=3D"Content-Type" content=3D"tex=
+t/html; charset=3DUTF-8">
+		<title>codedamn HTML Playground</title>
+	=09
+		<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D=
+1.0">
+		<link rel=3D"stylesheet" href=3D"https://road-action.codedamn.app:1337/st=
+yle.css">
+	</head>
+	<body>
+		<h1 style=3D"position:relative; left:px; bottom:12px;">Hi,I'm Sarvesh.web=
+ devloper</h1>
+        <h2>HELLO,I'm Sarvesh <br><span>welcome here</span></h2>
+      <h3>just a stater<br>(19 year old)</h3>
+		<p>Hey there! This is a HTML/CSS/JS playground!</p>
+		<ul>
+			<li>Whatsapp:<g>      6392490198</g></li>
+            <li>instagram:<g>             @sarvesh._._.7</g>
+			</li><li>mail: <g>Mrxgamer795@gmail.com</g></li>
+			<li>contact me:       <g>+91 6392490198</g></li>
+            <h4>know more...</h4>
+		</ul>
+=09
+
+</body></html>
+------MultipartBoundary--yp7lbf185uRD1jkuNpvLxVT6M51CBzLQx6joAd8uW0----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://road-action.codedamn.app:1337/style.css
+
+@charset "utf-8";
+
+body { padding: 10px; margin: 0px; font-family: "-apple -apple-system", Bli=
+nkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans"=
+, "Helvetica Neue", sans-serif, BlinkMacSystemFont, "Segoe UI", Roboto, Oxy=
+gen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-s=
+erif; line-height: 1.6; font-size: 18px; background-color: black; }
+
+h1 { color: rgb(253, 178, 2); font-size: 30px; border-style: solid; backgro=
+und-color: black; resize: horizontal; overflow: auto; position: absolute; b=
+ottom: 10px; animation-fill-mode: forwards; border-radius: 30px; border-col=
+or: white; }
+
+h2 { display: inline-block; margin-top: 10px; font-size: 3.5em; color: rgb(=
+250, 216, 0); font-weight: 600; }
+
+h3 { border-radius: 23px; font-size: 2em; font-weight: 700; color: rgb(255,=
+ 255, 255); letter-spacing: 1px; margin-top: 10px; margin-bottom: 30px; }
+
+g { color: rgb(100, 87, 0); }
+
+ul { color: rgb(250, 216, 0); }
+
+div { color: white; }
+
+h4 { text-decoration: none; align-items: center; background-color: rgb(250,=
+ 185, 6); color: rgb(0, 0, 0); font-size: 1em; font-weight: 600; display: i=
+nline-block; padding: 0.5em 0.5875em; letter-spacing: 1px; border-radius: 2=
+3px; margin-bottom: 4px; transition: all 0.7s ease 0s; }
+------MultipartBoundary--yp7lbf185uRD1jkuNpvLxVT6M51CBzLQx6joAd8uW0------
